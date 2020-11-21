@@ -1,4 +1,4 @@
-package HackerRank;
+package HackerRank.DayZero;
 
 import java.util.Scanner;
 
