@@ -14,3 +14,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 R
 "src/HackerRank/DayFour/Person.java,7\9\791ce5bcd299022338d6c1f632582259245613ef
+S
+#src/HackerRank/DayFive/DayFive.java,4\d\4deafe54c85eece6900f061d9d6e45955849bb1e
+Q
+!src/HackerRank/DaySix/DaySix.java,f\8\f87deba46daecf6d47a79595ccb8a52c989d5ec5
