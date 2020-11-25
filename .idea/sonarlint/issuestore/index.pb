@@ -20,3 +20,5 @@ Q
 !src/HackerRank/DaySix/DaySix.java,f\8\f87deba46daecf6d47a79595ccb8a52c989d5ec5
 U
 %src/HackerRank/DaySeven/DaySeven.java,9\3\9374e15cd3bc179755298fe191428e41137b57aa
+U
+%src/HackerRank/DayEight/DayEight.java,c\3\c341e1b66e72084400e1e060f8f7c8442431da0a
