@@ -22,3 +22,7 @@ U
 %src/HackerRank/DaySeven/DaySeven.java,9\3\9374e15cd3bc179755298fe191428e41137b57aa
 U
 %src/HackerRank/DayEight/DayEight.java,c\3\c341e1b66e72084400e1e060f8f7c8442431da0a
+V
+&src/HackerRank/DayTwelve/Solution.java,b\a\ba674d5023c9797d7c7bbd15aac9881a9c03821e
+U
+%src/HackerRank/DayTwelve/Student.java,e\8\e80a586a057be198fc3edfa4e55e7a913580e6a5
